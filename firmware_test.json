@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0-test",
+  "bin_url": "https://github.com/mijntest12345-lab/mijntest12345/releases/download/v1.0.0-test/firmware.bin",
+  "sha256": "9dca2acb55640f1cba96807139a528fb762b8401cb1e7bbf2521fc42168b5d0c",
+  "signature": "kJeS8d14dKzioYk9Ma3+kBpsChkbO++3LuWDGNFk4KgT7rSRhkzBQgcspK2SFXoqxpjs6ak/4sTepqby3hxWCg=="
+}

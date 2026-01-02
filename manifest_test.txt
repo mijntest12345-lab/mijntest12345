@@ -1,5 +1,4 @@
 {
   "message": "ESP32-OTA-TEST",
-  "signature": "Xz/ojvbVfM6LyJjPaSvqhsp0Bu8Ik2vGyPn2BOcPbqarV1Si0ifRnli0lEhd4D/44V8m27OU8iHDiHc1w81PAQ=="
+  "signature": "/FQXL3KU0RONBWUBZcbBshLri85V+RVIK3dFOkZ4kRGKYaNUvcS/qgsJlH/FpIlKay+o1ljEePj9ZDgdXDNeDg=="
 }
-
